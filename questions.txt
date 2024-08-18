@@ -1,0 +1,98 @@
+Introduction to Programming
+Assignment : 03
+
+ 
+
+Write code for the following (while loop) questions.
+1) Print Numbers from 1 to 10:
+Write a program using a while loop to print numbers from 1 to 10.
+
+2) Sum of First N Natural Numbers:
+Ask the user for a number 'N', and then sum up all natural numbers up to N using a while loop.
+
+3) Countdown Timer:
+Write a program that counts down from 10 to 1 and then prints "Liftoff!".
+
+4) Guess the Number:
+Implement a number guessing game. The program should pick a fixed number, and the user has to guess it. The loop should continue until the user guesses the correct number.
+
+5) Calculate the Average:
+Write a program that continuously asks users to enter a number until they enter "0". At the end, print the average of all entered numbers.
+
+6) Password Retry System:
+Create a program that asks for a password with a maximum of three attempts. If the correct password, "Python123", is entered, print "Access granted", otherwise print "Access denied" after three incorrect attempts.
+
+7) Print All Even Numbers up to N:
+Ask the user to input a number 'N', then use a while loop to print all even numbers from 1 to N.
+
+8) Multiplication Table:
+Ask for a number from the user and print its multiplication table up to 10 using a while loop.
+
+9) Find the Largest Number:
+Prompt the user to enter numbers one by one, and continue accepting numbers until the user enters "0". Print the largest number entered.
+
+10) Factorial of a Number:
+Ask the user for a non-negative integer and calculate the factorial of that number using a while loop.
+
+Write code for the following (for loop) questions.
+1) Print Numbers from 1 to 10:
+Ask the students to write a Python program using a for loop to print numbers from 1 to 10.
+
+2) Calculate the Sum of First 10 Natural Numbers:
+Write a program to sum up the first 10 natural numbers using a for loop.
+
+3) Print the Multiplication Table for a Given Number:
+Write a program that asks the user for a number and prints the multiplication table for that number up to 10 using a for loop.
+
+4) Print All Even Numbers Between 1 and 20:
+Use a for loop to print all even numbers between 1 and 20.
+
+5) Count the Number of Digits in an Integer:
+Write a Python program to count the number of digits in a given integer. Use a for loop with str() conversion.
+
+6) Reverse a String:
+Write a program to reverse a given string using a for loop.
+
+7) Calculate Factorial of a Number:
+Ask the user for a non-negative integer and calculate the factorial of that number using a for loop.
+
+8) Find the Sum of All Numbers in a List:
+Write a program that sums all the numbers in a given list using a for loop.
+
+9) Check if a Number is Prime:
+Write a program that asks the user to enter a number and then uses a for loop to check if it is a prime number.
+
+10) Print Each Character of a String on a New Line:
+Write a program that prints each character of a given string on a new line using a for loop.
+
+Write code for the following advance questions using loops.
+1) Print a Pyramid Pattern:
+Write a program to print a pyramid pattern with stars (*). The user specifies the number of rows.
+
+    *
+
+   ***
+
+  *****
+
+ *******
+
+*********
+
+2) Find All Prime Numbers Up to N:
+Implement a program that finds all prime numbers up to N.
+
+3) Create a Zigzag Sequence:
+Write a program to create a zigzag sequence with numbers. The sequence should alternate between increasing and decreasing numbers sequentially and use nested loops as shown below:
+1
+
+2 1
+
+1 2 3
+
+4 3 2 1
+
+1 2 3 4 5
+
+4) Fibonacci Sequence with a Twist:
+Write a program to generate a Fibonacci sequence up to n elements where every number divisible by 3 is replaced with "Fizz", every number divisible by 5 is replaced with "Buzz", and numbers divisible by both are replaced with "FizzBuzz".
